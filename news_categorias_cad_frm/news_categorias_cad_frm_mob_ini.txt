@@ -1,0 +1,7 @@
+news_categorias_cad_frm_mob.php
+news
+news_categorias_cad_frm_mob
+NAO
+form
+news_categorias_cad_frm
+LigMd5

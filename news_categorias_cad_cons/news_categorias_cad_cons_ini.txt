@@ -1,0 +1,7 @@
+news_categorias_cad_cons.php
+news
+news_categorias_cad_cons
+SIM
+cons
+news_categorias_cad_cons
+LigMd5

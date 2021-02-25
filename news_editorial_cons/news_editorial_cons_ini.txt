@@ -1,0 +1,7 @@
+news_editorial_cons.php
+news
+news_editorial_cons
+NAO
+cons
+news_editorial_cons
+LigMd5

@@ -1,0 +1,7 @@
+apl_inicial_mob.php
+news
+apl_inicial_mob
+NAO
+contr
+apl_inicial
+LigMd5

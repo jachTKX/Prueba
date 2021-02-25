@@ -1,0 +1,7 @@
+news_editorial_por_sessao_cons.php
+news
+news_editorial_por_sessao_cons
+SIM
+cons
+news_editorial_por_sessao_cons
+LigMd5

@@ -1,0 +1,7 @@
+news_detalhes_noticia.php
+news
+news_detalhes_noticia
+SIM
+cons
+news_detalhes_noticia
+LigMd5

@@ -1,0 +1,7 @@
+news_noticias_editar_publicadas.php
+news
+news_noticias_editar_publicadas
+SIM
+cons
+news_noticias_editar_publicadas
+LigMd5

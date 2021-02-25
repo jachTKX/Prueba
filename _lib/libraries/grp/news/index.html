@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<link rel="stylesheet" href="{SC_LIB_PROJECT}news/main.css">		
+		<!--SC_PAGE_CHARSET-->
+		<title>{lang_login_message_17}</title>
+		<meta name="description" content="{lang_login_message_15}" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!--SC_JS_LIB-->
+	</head>
+
+	<body class="page-background" style="background-image:url('{SC_LIB_PROJECT}news/news-bg.jpg');');">
+		<div class="page">
+			<div class="container-small container-color" style="background: rgba(0, 0, 0, 0.6);">
+				<div class="background">
+					<div class="content">
+						<h1>
+							{lang_login_message_7}
+						</h1>
+
+						<p>
+							{lang_login_message_15}
+						</p>
+						<p>
+							{lang_page_button_download}
+						</p>
+					</div>
+				</div>
+				<div class="col-4 box-form">
+					<form class="form" action="" {SC_FORM_ATTR}>
+						<!--SC_FORM_HIDDEN-->
+						<h2>
+							{lang_login_message_16}
+						</h2>
+
+						<div class="control">
+							<label class="label" for="name">{lang_login_message_8}</label>
+							<input class="input {SC_FIELD_CLASS}" type="text" placeholder="{lang_login_message_11}" {SC_FIELD_INFO_login}>
+						</div>
+
+						<div class="control">
+							<label class="label" for="pass">{lang_login_message_9}</label>
+							<input class="input {SC_FIELD_CLASS}" type="password" placeholder="{lang_login_message_12}" {SC_FIELD_INFO_senha}>
+						</div>
+
+						<div class="submit">
+							<input class="button" type="submit" value="{lang_login_message_10}" {SC_FORM_SUBMIT_CALL} />
+						</div>
+						<!-- Idiomas -->
+						<div class="flag-lang">
+							<a class="flags" href="../login/login.php?lang=en"><img src="{SC_LIB_PROJECT}news/en_us.png"></a>
+							<a class="flags" href="../login/login.php?lang=pt"><img src="{SC_LIB_PROJECT}news/pt_br.png"></a>
+							<a class="flags" href="../login/login.php?lang=es"><img src="{SC_LIB_PROJECT}news/es_es.png"></a>
+						</div>
+						<hr style="margin: 25px 0 20px;">
+						<div id='message'>
+							<span style='color:#333; font-size:12px; font-weight:bold;'>{lang_login_message_1}</span>
+							<p style="margin: 0px;font-size: 12px;">{lang_login_message_2}</p>
+							<p style="margin: 0px;font-size: 12px;">{lang_login_message_3}</p>	
+							<span style='color:#333; font-size:12px; font-weight:bold;'>{lang_login_message_4}</span>
+							<p style="margin: 0px;font-size: 12px;">{lang_login_message_5}</p>
+							<p style="margin: 0px;font-size: 12px;">{lang_login_message_6}</p>	
+						</div>
+					</form>					
+				</div>
+			</div>
+		</div>		
+		<div class="copyright">
+			<p>{lang_page_copyright}</p>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,7 @@
+news_troca_senha_controle.php
+news
+news_troca_senha_controle
+NAO
+contr
+news_troca_senha_controle
+LigMd5
